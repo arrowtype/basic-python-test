@@ -49,9 +49,10 @@ I am have the venv active, and I have ColdType 0.10.14 installed, which I’ve v
 
 ## Steps tried to fix the isssue
 
-- I’ve removed and remade the venv, then reinstalled the dependency
-- I’ve installed the latest stable Python, 3.12, from python.org
-- I repeated this test, with the same result
+- I’ve removed and remade the venv, then reinstalled the dependency.
+- I’ve restarted my computer.
+- I’ve installed the latest stable Python, 3.12, from python.org.
+- I repeated this test after each step, with the same result.
   
 ## Potentially relevant notes
 
