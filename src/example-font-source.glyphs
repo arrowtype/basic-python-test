@@ -1,0 +1,148 @@
+{
+.appVersion = "3151";
+.formatVersion = 3;
+date = "2023-11-14 18:47:00 +0000";
+familyName = "Example Font";
+fontMaster = (
+{
+id = m01;
+metricValues = (
+{
+over = 16;
+pos = 800;
+},
+{
+over = 16;
+pos = 700;
+},
+{
+over = 16;
+pos = 500;
+},
+{
+over = -16;
+},
+{
+over = -16;
+pos = -200;
+},
+{
+over = -16;
+}
+);
+name = Regular;
+}
+);
+glyphs = (
+{
+glyphname = A;
+lastChange = "2023-11-14 18:48:56 +0000";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(383,703,l),
+(267,711,l),
+(21,0,l),
+(158,0,l),
+(319,551,l),
+(438,0,l),
+(573,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(465,167,l),
+(448,273,l),
+(181,263,l),
+(160,167,l)
+);
+}
+);
+width = 600;
+}
+);
+unicode = 65;
+},
+{
+glyphname = a;
+lastChange = "2023-11-14 18:50:07 +0000";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(81,385,l),
+(209,500,l),
+(398,500,l),
+(493,416,l),
+(531,0,l),
+(389,0,l),
+(395,349,l),
+(295,421,l),
+(206,336,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(417,201,l),
+(247,210,l),
+(175,139,l),
+(247,75,l),
+(404,113,l),
+(403,46,l),
+(235,-15,l),
+(58,62,l),
+(58,203,l),
+(197,289,l),
+(422,252,l)
+);
+}
+);
+width = 600;
+}
+);
+unicode = 97;
+},
+{
+glyphname = space;
+layers = (
+{
+layerId = m01;
+width = 200;
+}
+);
+unicode = 32;
+}
+);
+metrics = (
+{
+type = ascender;
+},
+{
+type = "cap height";
+},
+{
+type = "x-height";
+},
+{
+type = baseline;
+},
+{
+type = descender;
+},
+{
+type = "italic angle";
+}
+);
+unitsPerEm = 1000;
+versionMajor = 1;
+versionMinor = 0;
+}
