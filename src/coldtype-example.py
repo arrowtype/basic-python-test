@@ -1,3 +1,7 @@
+"""
+    From https://github.com/coldtype/coldtype/blob/06537ff4e8dd3a9616aef7a113070cdf94533482/examples/animations/versioned.py
+"""
+
 from coldtype import *
 
 VERSIONS = {
